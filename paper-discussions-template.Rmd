@@ -1,19 +1,214 @@
 ---
-title: "Favaro et al. (2014) Paper Summary"
-author: "Cole Brookson, Alex Davis"
-date: "10/13/2021"
+title: "Godwin et al. (2020) Paper Summary"
+author: "Lauren Gill, Hazel de Haas, Lyubava Erko and Carys Hughes"
+date: "10/29/2021"
 output:
     pdf_document
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
-## Broad Questions
+\newpage
 
-## Changing Viewpoints
+**Pre-discussion Preparation**
 
-## Connections
+Key terms
 
-## Epistomology
+Self-reported data Recruitment Parasiticide Louse/delousing Audit Dip
+net and seine net Epizootics
 
-## How Science Happens
+General questions
 
+1\. What are some consequences of fish farming and why do we need
+audits?
 
+2\. What were the two studied species of lice? What is the difference in
+ecological implications between those two species?
+
+3\. Why does self-reporting exist in the first place among industries?
+What are some pros and cons to self-reporting?
+
+4\. What is problematic about the location of Atlantic salmon pens?
+
+5\. What are the implications of this paper when it comes to
+implementation of environmental policy?
+
+6\. Does this paper change the way you see environmental policy?
+
+Figures
+
+Figure 1 + Future applications
+
+1.  Notice how most salmon farms on the map are in clusters. What do you
+    think the repercussions of this are? Is this positive or negative?
+
+2.  The authors suggest that the self-reported values of sea lice might
+    need to be adjusted so that the number of reported sea lice would
+    increase proportionately with the authors' findings .
+
+    a)  How does this affect the facilities which were following proper
+        sea lice counting protocols and reported the right amount of sea
+        lice?
+
+    b)  Do you think this would over-increase the overall amount of
+        delousing treatments in the facilities that were not
+        under-reporting sea lice?
+
+    c)  Do you think that those treatments (over-treating) could be
+        harmful to the environment?
+
+3.  What incentives already exist to incite accurate self-reporting in
+    animal farming in general? From what you have read in this paper,
+    does it seem that these incentives exist in salmon farming? If not,
+    what do you think is preventing those incentives from being put in
+    place?
+
+4.  Do you believe it would be easier to implement stricter
+    self-reporting protocols and enforce them or move the salmon farms
+    away from the ocean, back on land?
+
+Figure 2
+
+1.  Define the figure elements x-axes y-axes Dotted black lines Dash
+    grey line
+
+2.  What is this figure trying to convey?
+
+3.  What were the specific results from the paper relating to this
+    figure?
+
+4.  What are the environmental implications of underestimating lice
+    counts?
+
+5.  Should the implementation of environmental policy rely on
+    self-reporting? "requires salmon farms to either harvest or conduct
+    a delousing treatment when louse abundance exceeds three motile lice
+    per fish"? If self-reporting introduces biases, what are some
+    solutions?
+
+6.  Are salmon farms doing more harm than good?
+
+Figure 3
+
+1.  What relationship is this figure looking at? What conclusions can be
+    drawn from it?
+
+2.  What do the dotted vertical lines represent in this figure? Why was
+    this an important feature to include? Should there be more audits
+    required during this time period?
+
+3.  What does the horizontal line represent in the graph to the right?
+    Why is this only shown for L. salmonis? How accurate are the results
+    for C. clemency if the current counting protocol doesn't account for
+    mobile lice?
+
+4.  If data from individual sampling events or individual fish was
+    available to the public, do you think there would be any difference
+    in their findings?
+
+5.  Of the suggested ways to remove bias, which method do you think is
+    most feasible and why?
+
+Figure 4
+
+1.  What do the dotted vertical lines represent?
+
+2.  Why do you think the author of the paper chose to compare reduction
+    in sea lice for 'unaudited' and 'prior treatment'? 3. Do you think
+    this is an effective comparison?
+
+3.  Why do you think farmers would be motivated to underreport their sea
+    lice counts, and what are some ways that we could incentivize/ensure
+    accurate reporting
+
+4.  Knowing that these reduced values are being used in management
+    decisions and as values in other population models - what effects do
+    you think this could have?
+
+\newpage
+
+**Broad Questions**
+
+There were five main questions posed by the instructors: (1) What was
+your overall impression of the paper? (2) What role do the
+scientistswriting the paper play in tackling these environmental issues?
+What role should this paper inhabit? (3) Is science political? (4) How
+do the worlds of science and industry work right now (do they work at
+all?) (4) How could this relationship be more effective in the future?
+(5) Is this paper more objective because no authors were funded by the
+salmon industry?
+
+**Changing Viewpoints**
+
+The questions "What role do the scientists writing the paper play in
+tackling these environmental issues? What role should this paper
+inhabit? and "Is science political" generated the most discussion. While
+the class agreed that this paper is objective, we were unaware of the
+strong backlash that the findings of this paper lead to. It changed the
+way many people thought about conservation science as a whole - how it
+is inherently political as its goal is to inform policy making. And
+along that same train of thought, it is important to take into
+consideration the implications of the findings of this paper. People
+whose livelihoods depend on industry (i.e. salmon farmers) are suddenly
+at risk of losing their jobs because scientists are saying they are
+biased in the ways they implement environmental policy. Thus, while a
+paper might seem objective to us and even progressive in the way that it
+provides suggestions in improving industry self-reported - we have to
+take into consideration who this paper impacts and what those impacts
+might be.
+
+**Connections**
+
+Relating to the first question posed, the class' overall impressions of
+the paper were good and people thought that the figures and conclusions
+were well elaborated, easy to understand and accessible to a general
+audience. There was also an agreement that the methods were difficult to
+understand. This is important due to the backlash that the paper
+received considering that the salmon industry criticized the finding by
+claiming that the authors did a poor job at analyzing the DFO's data.
+Since most people would have trouble understanding the data analysis of
+the paper, this could have repercussions on the backlash to this paper
+and public opinion. The questions concerning the political side of the
+paper and of science relate to the article's discussion section where
+the authors could have pointed the finger to the salmon farming
+industry, but chose not to. They instead presented the results without
+making assumptions as to why sea lice numbers were underestimated and
+presented solutions in the discussion for remediating this problem.
+
+**Epistomology**
+
+This discussion was very eye-opening. At first, (and still now) the
+methods were difficult to understand, because of the unfamiliar
+vocabulary and complex model. Although in many papers the methods are
+important to understanding the premise of the paper, in this case we
+were still able to gauge what the author was trying to convey. This
+discussion also made us reflect on our bias in our DS projects,
+including our desire to get 'good' results, our choice of projects (ie
+choosing an animal based on how charismatic/uncharismatic it is) and
+other variables that may have introduced bias in our seemingly objective
+study designs.
+
+Our approach to interpreting scientific literature has changed by
+learning to also consider not just what the paper says, but also the
+whole topic surrounding the paper. In this discussion we considered the
+position of the audience, the author, of possible stakeholders (like
+DFO) and rebuttal papers. This gave us a much more comprehensive
+understanding of the issue, than if we had just solely read the paper.
+ave us a much more comprehensive understanding of the issue, than if we
+had just solely read the paper.
+
+**How Science Happens**
+
+This paper does contribute to overall understanding on how science
+happens and how it is distributed widely. After the instructor-led
+discussion, we had a better comprehension that industry, government, and
+grant funding through universities are behind many studies. We discussed
+that because this paper wasn't funded by the salmon industry it was more
+objective. When asked if it had come out that the paper was in fact
+funded by the industry, some were unsure if the results would be
+reliable. Perceived quality of papers and how the papers are received by
+different parties depends on who published the paper. While the students
+had a positive reaction to the paper and how the issue was addressed,
+backlash was received from people within the salmon industry and a
+rebuttal article was made.
